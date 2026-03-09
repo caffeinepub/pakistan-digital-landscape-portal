@@ -1,0 +1,9 @@
+{
+  "frontend/src/App.tsx": "Main application component that handles authentication flow, showing login page for unauthenticated users, profile setup for new users, and dashboard for authenticated users with profiles.",
+  "frontend/src/pages/LoginPage.tsx": "Modern login page with dark theme and glassmorphism design featuring the Pakistan Digital Landscape Portal logo, clean title without subheadings, email/password inputs, Internet Identity authentication, and animated background elements.",
+  "frontend/src/pages/Dashboard.tsx": "Dashboard page with full-width blurred background image (image-1.png), dark green theme, simplified welcome message, and action cards for \"Start Survey\" and \"View Analytics\" with glassmorphism styling and institutional design aesthetic.",
+  "frontend/src/components/ProfileSetup.tsx": "Profile setup component for first-time users to create their account credentials with email and password validation.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for backend operations including user profile retrieval, profile saving, and authentication with proper state management and cache invalidation.",
+  "frontend/src/index.css": "Global styles with OKLCH color system configured for dark theme, custom animations for glassmorphism effects, and enhanced backdrop blur utilities.",
+  "frontend/tailwind.config.js": "Tailwind configuration with extended color palette for teal/cyan accent colors, custom shadows for glassmorphism, and enhanced border radius settings."
+}
